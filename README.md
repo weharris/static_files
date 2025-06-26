@@ -25,4 +25,9 @@ Click on an image filename to copy its path for use as a static asset.
 
 ### Ecoteach
 
-*No images found in this directory.*
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="img/ecoteach/AfricanElephant.png" width="100"> <br> [AfricanElephant.png](img/ecoteach/AfricanElephant.png) | <img src="img/ecoteach/BarnSwallow.png" width="100"> <br> [BarnSwallow.png](img/ecoteach/BarnSwallow.png) | <img src="img/ecoteach/CarrionCrow.png" width="100"> <br> [CarrionCrow.png](img/ecoteach/CarrionCrow.png) | <img src="img/ecoteach/Chimpanzee.png" width="100"> <br> [Chimpanzee.png](img/ecoteach/Chimpanzee.png) |
+| <img src="img/ecoteach/ChinesePangolin.png" width="100"> <br> [ChinesePangolin.png](img/ecoteach/ChinesePangolin.png) | <img src="img/ecoteach/DrosophilaSimulans.png" width="100"> <br> [DrosophilaSimulans.png](img/ecoteach/DrosophilaSimulans.png) | <img src="img/ecoteach/EdibleDormouse.png" width="100"> <br> [EdibleDormouse.png](img/ecoteach/EdibleDormouse.png) | <img src="img/ecoteach/EurasianJay.png" width="100"> <br> [EurasianJay.png](img/ecoteach/EurasianJay.png) |
+| <img src="img/ecoteach/EuropeanBadger.png" width="100"> <br> [EuropeanBadger.png](img/ecoteach/EuropeanBadger.png) | <img src="img/ecoteach/GalapagosSeaLion.png" width="100"> <br> [GalapagosSeaLion.png](img/ecoteach/GalapagosSeaLion.png) | <img src="img/ecoteach/MagellanicPenguin.png" width="100"> <br> [MagellanicPenguin.png](img/ecoteach/MagellanicPenguin.png) | <img src="img/ecoteach/Orca.png" width="100"> <br> [Orca.png](img/ecoteach/Orca.png) |
+| <img src="img/ecoteach/RaccoonDog.png" width="100"> <br> [RaccoonDog.png](img/ecoteach/RaccoonDog.png) | <img src="img/ecoteach/RedPanda.png" width="100"> <br> [RedPanda.png](img/ecoteach/RedPanda.png) | <img src="img/ecoteach/RuppellsVulture.png" width="100"> <br> [RuppellsVulture.png](img/ecoteach/RuppellsVulture.png) | |
